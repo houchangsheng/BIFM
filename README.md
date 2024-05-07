@@ -16,7 +16,7 @@
 ```
 $ make
 ```
-- Run the examples, and the program will output some statistics about the accuracy and efficiency. 
+- Run BIFM, and the program will output some statistics about the accuracy and efficiency. 
 ```
 $ ./bifm 
 ```
