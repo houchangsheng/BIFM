@@ -18,6 +18,6 @@ $ make
 ```
 - Run BIFM, and the program will output some statistics about the accuracy and efficiency. 
 ```
-$ ./bifm 
+$ ./bifm <filter number> <data reduction ratio> <winnowing window> <shingling window> <down sampling threshold> <block hit threshold> <check threshold> <digested traffic> <queried excerpts>
 ```
 - Note that you can change the configuration of BIFM and other methods.
